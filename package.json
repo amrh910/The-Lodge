@@ -1,0 +1,33 @@
+{
+  "name": "team-a",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.0",
+    "jquery": "^3.3.1",
+    "moment": "^2.22.1",
+    "proptypes": "^1.1.0",
+    "react": "^16.3.2",
+    "react-datepicker": "^1.4.1",
+    "react-dom": "^16.3.2",
+    "react-gmaps": "^1.9.0",
+    "react-modal-login": "^1.2.1",
+    "react-places-autocomplete": "^7.1.1",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "semantic-ui": "^2.3.1",
+    "semantic-ui-react": "^0.79.1",
+    "styled-components": "^3.1.6"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "devDependencies": {
+    "firebase": "^4.13.1",
+    "re-base": "^3.2.2"
+  }
+}

@@ -1,0 +1,13 @@
+As a user, I want to browse events
+As a user, I want to register for events
+As a user, I want to find out more about events
+As an organizer, I want to create an events
+As an organizer, I want to keep track of events I've created
+As an organizer, I want to edit the details of an event
+As an organizer, I want to see who is interested about my event
+
+As a user…
+I want to be able to sign up
+I want to be able to Join an event
+I want to know details about the event (time, date, place, how many other people are coming)
+I want to be able to post an event

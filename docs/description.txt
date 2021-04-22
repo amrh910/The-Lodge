@@ -1,0 +1,4 @@
+This application will allow users to look for events, each containing 
+their respective descriptions, dates, and times, and allow users to 
+register for them. Users that have registered to events will be notified 
+about their details.

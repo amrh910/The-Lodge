@@ -1,0 +1,34 @@
+CCNY MeetUp
+React Components
+
+Main
+Top-level component
+React Router
+Interfaces with Firebase
+Google Maps and Google Calendar API
+Child: eventView
+
+eventView
+Displays details of event
+Displays location via Google Maps
+Child: regEvent
+
+regEvent
+User registers for an upcoming event
+Adds event to Google Calendar API
+
+createEvent
+Create a new event (title, details, time, date)
+Adds event to feed
+Set location of event via Google Maps API
+Add event to Google Calendar
+----
+Pending
+
+newUser
+Create new account for user (Google+ API?)
+
+signIn
+Existing user sign in (Google+ API?)
+
+
