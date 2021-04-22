@@ -1,0 +1,49 @@
+.btn-lavender { 
+  color: #ffffff; 
+  background-color: #611BBD; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-lavender:hover, 
+.btn-lavender:focus, 
+.btn-lavender:active, 
+.btn-lavender.active, 
+.open .dropdown-toggle.btn-lavender { 
+  color: #ffffff; 
+  background-color: #49247A; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-lavender:active, 
+.btn-lavender.active, 
+.open .dropdown-toggle.btn-lavender { 
+  background-image: none; 
+} 
+ 
+.btn-lavender.disabled, 
+.btn-lavender[disabled], 
+fieldset[disabled] .btn-lavender, 
+.btn-lavender.disabled:hover, 
+.btn-lavender[disabled]:hover, 
+fieldset[disabled] .btn-lavender:hover, 
+.btn-lavender.disabled:focus, 
+.btn-lavender[disabled]:focus, 
+fieldset[disabled] .btn-lavender:focus, 
+.btn-lavender.disabled:active, 
+.btn-lavender[disabled]:active, 
+fieldset[disabled] .btn-lavender:active, 
+.btn-lavender.disabled.active, 
+.btn-lavender[disabled].active, 
+fieldset[disabled] .btn-lavender.active { 
+  background-color: #611BBD; 
+  border-color: #FFFFFF; 
+} 
+ 
+.btn-lavender .badge { 
+  color: #611BBD; 
+  background-color: #ffffff; 
+}
+
+.center {
+    text-align: center;
+}
